@@ -12,13 +12,12 @@ def load_word(directory: str = "game_libs\\words.txt") -> list:
             file = open(directory, 'r')
             break
         except (FileNotFoundError, OSError):
-            print('Неправильный путь к файлу со словами! Укажите путь к нему или напишите quit для выхода из игры...')
+            print('Wrong path to the word`s file! Input the path or enter quit to exit the game...')
             directory = input()
             if directory == 'quit':
                 exit()
         except PermissionError:
-            print('Недостаточно прав для чтения указанного файла! Укажите путь к другому или напишите quit для выхода '
-                  'из игры...')
+            print('Do not have authorisation to read this file! Input the path or enter quit to exit the game... ')
             directory = input()
             if directory == 'quit':
                 exit()

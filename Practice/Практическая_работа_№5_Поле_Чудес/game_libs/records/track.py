@@ -12,7 +12,7 @@ def track_record(record: int = 0) -> None:
         file.seek(0)
         while True:
             if record >= old_recs[0]:
-                print('Новый рекорд!')
+                print('New record!')
                 old_recs.append(record)
                 old_recs.sort(reverse=True)
                 for i in old_recs:
