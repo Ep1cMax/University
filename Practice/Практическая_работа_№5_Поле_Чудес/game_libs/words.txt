@@ -1,0 +1,17 @@
+apple
+banana
+planet
+car
+cat
+door
+eye
+microscope
+school
+university
+fork
+spoon
+orange
+house
+home
+way
+train
