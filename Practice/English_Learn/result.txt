@@ -1,0 +1,72 @@
+Исходное слово | Перевод | Количество упоминаний
+занятие | class | 5
+следующий | next | 4
+в | V | 4
+1. | 1. | 3
+реферирование | refereeing | 3
+2. | 2. | 3
+и | And | 3
+по | by | 3
+закрыть | close | 3
+задание | exercise | 2
+клише | cliche | 2
+знать | know | 2
+перевод | translation | 2
+с | with | 2
+на | on | 2
+кто | Who | 2
+не | Not | 2
+тексты: | texts: | 2
+первый | first | 2
+второй | second | 2
+текст | text | 2
+выучить | learn | 1
+он | He | 1
+русский | Russian | 1
+английский | English | 1
+текста!!!! | text!!!! | 1
+сдать | pass | 1
+ещё | more | 1
+к | To | 1
+надо | necessary | 1
+это | This | 1
+сделать | do | 1
+обязательно | Necessarily | 1
+дедлайн | deadline | 1
+создавать | create | 1
+студенчество | student life | 1
+клише. | cliche. | 1
+последний | last | 1
+шанс. | chance. | 1
+qr-код | qr code | 1
+носить | wear | 1
+как | How | 1
+щит | shield | 1
+дз | dz | 1
+повторить | repeat | 1
+материал | material | 1
+инфинитив | infinitive | 1
+(пригодиться | (will come in handy | 1
+для | for | 1
+изучение | studying | 1
+темы) | topics) | 1
+через | through | 1
+быть | be | 1
+небольшой | small | 1
+контрольный | control | 1
+работа | work | 1
+грамматика | grammar | 1
+ребята, | Guys, | 1
+внимание!завтра | Attention! Tomorrow | 1
+отменяться | to be cancelled | 1
+связь | connection | 1
+теракт | terrorist attack | 1
+подмосковье! | Moscow region! | 1
+приходить | comes | 1
+университет | university | 1
+надо! | necessary! | 1
+передать | hand over | 1
+пожалуйста | Please | 1
+весь | all | 1
+другой | another | 1
+группах! | groups! | 1
